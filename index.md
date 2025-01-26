@@ -5,3 +5,14 @@ playing with header sizes
 adding images
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+code examples
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
